@@ -10,7 +10,7 @@ Install
 
 1. Clone the repo
 
-    ```git clone https://github.com/JamesTheHacker/northumerland-planning-application-scraper```
+    ```git clone https://github.com/JamesTheHacker/northumberland-planning-application-scraper```
 
 2. Change into the application directory
 
