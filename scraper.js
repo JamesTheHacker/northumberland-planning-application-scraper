@@ -235,5 +235,5 @@ start
         console.log(csv);
     });
 }).catch(function(err) {
-    console.log(err);
+    console.error(err);
 });
