@@ -1,0 +1,17 @@
+{
+  "name": "northumberland-council-scraper",
+  "version": "1.0.0",
+  "description": "Scrape weekly planning applications from Northumberland Council website.",
+  "scripts": {
+    "start": "node scraper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Jeffery",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "json2csv": "^3.4.2",
+    "lodash": "^4.13.1",
+    "moment": "^2.13.0"
+  }
+}
